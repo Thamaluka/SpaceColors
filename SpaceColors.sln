@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{77EA3367-8D4F-EFDB-E713-9F1F5A7B63C2}") = "SpaceColors", "Assembly-CSharp.csproj", "{1F80C446-0C5E-3325-9F5C-2740FCC9A107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F80C446-0C5E-3325-9F5C-2740FCC9A107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F80C446-0C5E-3325-9F5C-2740FCC9A107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F80C446-0C5E-3325-9F5C-2740FCC9A107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F80C446-0C5E-3325-9F5C-2740FCC9A107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
